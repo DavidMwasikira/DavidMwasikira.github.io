@@ -13,34 +13,41 @@ Click the link below for a Live preview of My Resume!
 
 ## A Caption of the site's image for a flash preview
 
-![Site Preview](https://github.com/DavidMwasikira/My_Blog/blob/master/port_images/blog_cap-1.JPG "title")
+![Site Preview](https://github.com/DavidMwasikira/DavidMwasikira.github.io/blob/master/resume_images/david_resume-1.JPG "title")
 
-
-## Skills
-
-### Project Management 
+## Experience
+### Project Management: Large Scale Industrial Installations 
 ### Industrial Process Manufacturing
 ### Web Development
 
 
-## Programming Languages & Tools
+## Education
+### MSc Data Analytics at Rochester Institute of Technology 
+### Post Grad cert at University of Wollongong in Dubai
+### B Tech Production Engineering
+
+# Skills
+
+## Web Application Development Stack: Programming Languages & Tools
 
 ### - HTML / CSS & JavaScript
 ### - The MEAN Stack (MongoDB, Express/NodeJS, Angular Frameworks)
-### - Python
-### - Python Django & Wagtail CMS
+### - Python Django & Flask
 ### - Dart and Flutter (for App Development)
 ### - Java
-### - R Programming
 
-## Data Analytics
 
-## Other Pages
+## Data Analytics Stack
+### - Python and R Programming
+### - Data Visualization with Tableau
 
-![Site Preview](https://github.com/DavidMwasikira/My_Blog/blob/master/port_images/blog_cap-2.JPG "title")
+# Other Pages
 
-![Site Preview](https://github.com/DavidMwasikira/My_Blog/blob/master/port_images/blog_cap-3.JPG "title")
+![Site Preview](https://github.com/DavidMwasikira/DavidMwasikira.github.io/blob/master/resume_images/david_resume-2.JPG "title")
 
-## About
+![Site Preview](https://github.com/DavidMwasikira/DavidMwasikira.github.io/blob/master/resume_images/david_resume-3.JPG "title")
+
+# About
 
 ### Passionate about developing products & solutions to make life easier and better
+### Coaching & Mentoring others
